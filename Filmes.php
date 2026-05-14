@@ -1,9 +1,12 @@
 <?php
 // Array inicial de filmes
 $filmes = [
-    ["id" => 1, "titulo" => "Matrix", "ano" => 1999],
+    ["id" => 1, "titulo" => "Spider Man 2", "ano" => 2004],
     ["id" => 2, "titulo" => "O Senhor dos Anéis", "ano" => 2001],
     ["id" => 3, "titulo" => "Interestelar", "ano" => 2014],
+    ["id" => 4, "titulo" => "Ponte para Terabítia", "ano" => 2007],
+    ["id" => 5, "titulo" => "Todo Mundo em Pânico", "ano" => 2000],
+    ["id" => 6, "titulo" => "Venom: Tempo de Carnificina", "ano" => 2021],
 ];
 
 // Função para listar filmes
