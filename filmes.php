@@ -2,9 +2,9 @@
     //Banco de dados
     $database = [
         [
-            "titulo" => "Sonic 3: O Filme",
-            "descricao" => " Com o retorno de Sonic, Tails e Knuckles, o filme adapta elementos de Sonic Adventure 2, incluindo a aliança com Dr. Robotnik (Jim Carrey) para enfrentar o ouriço sombrio.",
-            "img" => "https://upload.wikimedia.org/wikipedia/pt/8/89/Sonic_The_Hedgehog_3_p%C3%B4ster.png"
+            "titulo" => "Batman Begins",
+            "descricao" => "Bruce Wayne torna-se o Batman para salvar Gotham do caos e do crime organizado.",
+            "img" => "https://upload.wikimedia.org/wikipedia/pt/1/1f/Batman_Begins_Poster.jpg"
         ],
         [
             "titulo" => "Vingadores: Ultimato",
